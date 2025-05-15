@@ -1,6 +1,6 @@
 # 🧠 AI Mastery + Agentic Automation Curriculum
 
-This curriculum merges the deep technical foundation required to become an AI expert with the real-world automation and business skills needed to deploy solutions effectively in a private equity or agency context.
+This curriculum merges the deep technical foundation required to become an AI expert with the real-world automation and business skills needed to deploy solutions effectively in an agency context.
 
 ---
 
